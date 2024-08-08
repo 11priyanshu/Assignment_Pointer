@@ -1,0 +1,1 @@
+// Q.5 is not correct code because the pointer always store the address but it stores the value so this is wrong.
